@@ -6,7 +6,13 @@ const Room = require('../models/rooms');
 
 // Rooms index
 router.get('/', (req, res, next) => {
-	// TODO
+	Room.find({}, 'topic', function (err, rooms) {
+		if (err) {
+			console.error(err);
+		} else {
+			res.render('rooms/index', { rooms: rooms });
+		}
+	});
 });
 
 // Rooms new
