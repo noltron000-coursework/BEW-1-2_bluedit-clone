@@ -5,8 +5,8 @@ Bluedit is a Reddit clone using some cool backend features including:
 - Handlebars
 - Bootstrap
 - Mongo DB
-- - mLab
-- - Mongoose
+	- mLab
+	- Mongoose
 - Bcrypt
 
 ## Why?
