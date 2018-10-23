@@ -7,6 +7,7 @@ Bluedit is a Reddit clone using some cool backend features including:
 - Mongo DB
 - - mLab
 - - Mongoose
+- Bcrypt
 
 ## Why?
 Bluedit was created for Make School's backend 1.2 course.
