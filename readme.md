@@ -1,4 +1,8 @@
 # BEW-1-2_bluedit
+
+##### NOTICE
+This tutorial may be incorrect. I used the wrong tutorial -- Make Reddit vs Reddit Clone in the makeschool tutorials.
+
 Bluedit is a Reddit clone using some cool backend features including:
 - Node.js
 - Express.js
